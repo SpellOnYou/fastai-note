@@ -9,7 +9,6 @@ Other notes and projects will be in my [blog.](https://spellonyou.github.io/)
 
 ## Course Status Updates
 
-
 ## materials
 
 * [](https://forums.fast.ai/t/getting-comfortable-with-pytorch-projects/28371)
@@ -29,18 +28,4 @@ Other notes and projects will be in my [blog.](https://spellonyou.github.io/)
 deep learning from foundations, note and jupyter notebook practicing repo
 
 To keep my files in my own repo, updates in class are cherrypicked ..😉
-
-
-<table>
-  <tr>
-    <td>Building ML Powered App: Going from Idea to Product</td>
-     <td>TinyML: ML with TFLite on Android and Ultra-Low-Power Microcontrollers</td>
-     <td>Practical Deep Learning for Cloud, Mobile, and Edge: Real-World AI & Computer-Vision Projects Using Python, Keras & TensorFlow</td>
-  </tr>
-  <tr>
-    <td><img src="/assets/images/ml-app.jpg" width=270 height=300></td>
-    <td><img src="/assets/images/tinyml.jpg width=270 height=300></td>
-    <td><img src="/assets/images/cloudmobile.jpg" width=270 height=300></td>
-  </tr>
- </table>
 
