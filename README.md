@@ -1,50 +1,14 @@
 # dlff-note-practice
 
 Notes of the [fast.ai courses-v3](https://course.fast.ai/index.html) (2019)
- [fast.ai course-v4](https://github.com/fastai/course-v4) (2020) which contain version1 and version2.
+ [fast.ai course-v4](https://github.com/fastai/course-v4) (2020) which Practical part and Scratch part.
 
 Other notes and projects will be in my [blog.](https://spellonyou.github.io/)
 
 ### Things with courses.
 
-## Course updates
+## Course Status Updates
 
-<table>
-	<tr>
-		<td> <b>Part1</b> 2019-v3 </td>
-		<td> <b>Part2</b> 2019-v3 </td>
-		<td> <b>Part1</b> 2020-v4 </td>		<td> <b>Part2</b> 2020-v4 </td>		
-	</tr>
-	<tr>
-		<td> 
-		- [x] v3-course01
-		- [x] v3-course02
-		- [x] v3-course03
-		- [x] v3-course04
-		- [x] v3-course05
-		- [ ] v3-course06
-		- [ ] v3-course07 </td>
-		<td>
-		- [x] v3-course08
-		- [ ] v3-course09
-		- [ ] v3-course10
-		- [ ] v3-course11
-		- [ ] v3-course12
-		- [ ] v3-course13
-		- [ ] v3-course14
-		</td>
-		<td> 
-		- [x] v4-course01
-		- [ ] v4-course02
-		- [ ] v4-course03
-		- [x] v4-course04
-		- [ ] v4-course05
-		- [ ] v4-course06
-		- [ ] v4-course07
-		- [ ] v4-course08 </td>
-		<td></td>				
-	</tr>
-</table>
 
 ## materials
 
