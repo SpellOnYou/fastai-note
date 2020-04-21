@@ -11,7 +11,7 @@ Other notes and projects will be in my [blog.](https://spellonyou.github.io/)
 
 ## materials
 
-* [](https://forums.fast.ai/t/getting-comfortable-with-pytorch-projects/28371)
+- [Getting comfortable with pytorch](https://forums.fast.ai/t/getting-comfortable-with-pytorch-projects/28371)
 - [What is torch.nn really?](https://colab.research.google.com/drive/1npcdtaKZtsWbPQKSXSBGlcDhPryy5lfQ#scrollTo=2hDDD8ibX3Lq)
 
 
