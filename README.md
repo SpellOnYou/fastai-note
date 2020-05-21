@@ -3,7 +3,7 @@
 Notes of the [fast.ai courses-v3](https://course.fast.ai/index.html) (2019)
  [fast.ai course-v4](https://github.com/fastai/course-v4) (2020) which Practical part and Scratch part.
 
-Other notes and projects will be in my [blog.](https://spellonyou.github.io/)
+Detailed tranking will be on my [blog.](https://spellonyou.github.io/)
 
 ### Things with courses.
 
